@@ -1,7 +1,7 @@
 I created 3 lamda functions
 
-apigw
-s3lamda
+apigw,
+s3lamda,
 sqslamda
 
 
